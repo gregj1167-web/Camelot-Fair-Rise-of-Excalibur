@@ -1,0 +1,24 @@
+{
+  "name": "camelot-fair-backend",
+  "version": "1.0.0",
+  "description": "Backend for Camelot Fair event system",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node server/index.js"
+  },
+  "keywords": [
+    "camelot",
+    "game",
+    "events",
+    "leaderboard",
+    "jousting"
+  ],
+  "author": "Camelot Fair",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {}
+}
