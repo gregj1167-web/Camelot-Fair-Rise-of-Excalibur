@@ -1,0 +1,51 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Visual Studio cache directory
+.vs/
+
+# Generated meta files
+*.meta
+
+# Build results
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.a
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+.env
+.env.local
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Rider
+.idea/
+*.sln.iml
+
+# Editor backup files
+*~
+*.swp
+*.swo
